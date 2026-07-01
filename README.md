@@ -158,20 +158,14 @@ Drive the robot around the environment (via teleop or a scripted path) to build 
 ros2 run nav2_map_server map_saver_cli -f ~/my_map
 ```
 
-### 3. Launch localization (AMCL) with the saved map
-
-```bash
-ros2 launch my_robot_bringup localization.node.py
-```
-
-### 4. Now kill all the nodes and start following for using my_robot_launch, localization and nav2 by one file.
+### 3. Now kill all the nodes and start following for using my_robot_launch, localization and nav2 by one file.
 
 ```bash
 ros2 launch my_robot_bringup bringup.launch.py
 ```
 after this use pose estimate in the direction of urdf.
 
-### 5. Send a navigation goal
+### 4. Send a navigation goal
 
 Use RViz2's **Nav2 Goal** tool.
 
