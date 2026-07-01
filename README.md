@@ -58,7 +58,7 @@ sudo apt install ros-humble-desktop \
   python3-colcon-common-extensions
 ```
 
----
+```
 caster_wheel_urdf_navigation/
 ├── my_robot_bringup/
 │   ├── my_robot_bringup/
@@ -100,8 +100,8 @@ caster_wheel_urdf_navigation/
 ├── .gitignore
 ├── LICENSE
 └── README.md
-
 ---
+```
 
 ## ⚙️ Installation
 
