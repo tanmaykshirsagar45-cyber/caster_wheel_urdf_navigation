@@ -115,7 +115,7 @@ cd ~/imp_ws/src
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/<your-username>/my_robot_navigation.git
+git clone https://github.com/tanmaykshirsagar45-cyber/my_robot_navigation.git
 ```
 
 3. Install dependencies:
