@@ -1,4 +1,4 @@
-# 🚀 ROS 2 Autonomous Navigation Simulation
+# 🚀 ROS 2 Autonomous Caster Wheel URDF Navigation Simulation
 
 A complete autonomous navigation pipeline built with **ROS 2 Humble** and **Ignition Gazebo (Fortress)** — from a custom-designed simulation environment through SLAM mapping, localization, and autonomous path planning with Nav2.
 
