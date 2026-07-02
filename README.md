@@ -108,7 +108,7 @@ caster_wheel_urdf_navigation/
 1. Create a ROS 2 workspace (if you don't already have one):
 
 ```bash
-mkdir -p ~/ros2_ws/src
+mkdir -p ~/imp_ws/src
 cd ~/imp_ws/src
 ```
 
@@ -177,9 +177,9 @@ Use RViz2's **Nav2 Goal** tool.
 
 ## 🎬 Demo
 
-![Demo GIF](docs/demo.gif)
+---
 
-▶️ Full video: *(link to LinkedIn post / YouTube)*
+[▶️ Full video: *(link to LinkedIn post)*](https://www.linkedin.com/feed/update/urn:li:activity:7478529209682944001/)
 
 ---
 
