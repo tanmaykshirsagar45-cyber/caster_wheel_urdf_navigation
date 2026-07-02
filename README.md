@@ -167,6 +167,7 @@ after this use pose estimate in the direction of urdf.
 
 ### 4. Send a navigation goal
 
+Before sending goal outiside the room make sure ti navigate once inside the room so that gets converged to an accurate pose. if not robot may get stuck at one point for longer goal pose initially.
 Use RViz2's **Nav2 Goal** tool.
 
 
